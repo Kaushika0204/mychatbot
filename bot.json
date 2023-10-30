@@ -1,0 +1,166 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "Hey",
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      },
+      {
+        "tag": "service",
+        "patterns": [
+          "What services you provide",
+          "Services provided by you",
+          "Your services"
+          
+        ],
+        "responses": [
+          "Our services include Mobile app development, Web app development, Machine learning, Aritificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain",
+          "We provide services like Mobile app development, Web app development, Machine learning, Aritificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain "
+        ]
+      },
+      {
+        "tag": "intro",
+        "patterns": [
+          "Short intro about your company",
+          "What is your company about",
+          "Detail about your company"
+          
+        ],
+        "responses": [
+          "meteoriQs is a recognisable Chennai based company specialized in Product Development, Technology Services and Consulting Services",
+          "We are a recognisable Chennai based company specialized in Product Development, Technology Services and Consulting Services and are deeply committed in offering agility, quality, and efficiency in every service we render to our clients and international business partners. "
+        ]
+      },
+      {
+        "tag": "industries",
+        "patterns": [
+          "Which industries do you work for",
+          "Any specific industries you provide services",
+          "Which sectors you provide services into"
+        ],
+        "responses": [
+          "Our services are provided across sectors like BFSI, Food&Beverages, Manufacturing, Education, E-commerce, Construction, Medical Services, Real Estate, etc",
+          "We provide our services for various sectors like BFSI, Food&Beverages, Manufacturing, Education, E-commerce, Construction, Medical Services, Real Estate, etc"
+        ]
+      },
+      {
+        "tag": "mobile app development",
+        "patterns": [
+          "Intro about your mobile app development service",
+          "Mobile app development service",
+          "Mobile app development"
+        ],
+        "responses": [
+        "We stand out as our primary focus is developing apps that are hybrid, native and superior cross-platform compatible mobile apps. With an experienced team in mobile app development, we assure you sophisticated, logical and remarkable mobile apps."
+        ]
+      },
+      {
+        "tag": "web app development",
+        "patterns": [
+          "Intro about your web app development service",
+          "web app development service",
+          "web app development"
+        ],
+        "responses": [
+        "Using our web application services we can make our clients long awaited desires come into reality by assisting them in creating online applications that they have been idealizing. We can take care of everything from planning to designing till hosting and maintenance of the application."
+        ]
+      },
+      {
+        "tag": "artificial intelligence",
+        "patterns": [
+          "Intro about your artificial intelligence service",
+          "artificial intelligence service",
+          "artificial intelligence",
+          "ai"
+        ],
+        "responses": [
+        "The utmost essential factor i.e. repeatability is provided in all our AI products. We offer instant AI solutions that leads in acquiring authentic and precise results. It is our main priority to protect data so we never compromise on security."
+        ]
+      },
+      {
+        "tag": "machine learning",
+        "patterns": [
+          "Intro about your machine learning service",
+          "machine learning service",
+          "machine learning",
+          "ml"
+        ],
+        "responses": [
+        "The algorithms are customised and created by our qualified team to meet the needs of our clients. Under no circumstances we economize on data compliance and security."
+        ]
+      },
+      {
+        "tag": "iot",
+        "patterns": [
+          "Intro about your iot service",
+          "internet of things service",
+          "iot"
+        ],
+        "responses": [
+        "The algorithms are customised and created by our qualified team to meet the needs of our clients. Under no circumstances we economize on data compliance and security."
+        ]
+      },
+      {
+        "tag": "devops",
+        "patterns": [
+          "Intro about your devops service",
+          "devops engineering service",
+          "devops"
+        ],
+        "responses": [
+        "We handle the entire process starting from testing to monitoring all the operations. Our aim is to deliver software's that are faster, definitive and with better quality. Our skilled DevOps practice automates all SDLC processes."
+        ]
+      },
+      {
+        "tag": "qa",
+        "patterns": [
+          "Intro about your qa automation service",
+          "qa automation service",
+          "qa automation",
+          "automation"
+        ],
+        "responses": [
+        "Our QA Automations services are adhered to various clients from enormous industries. These services provided by meteoriQs helps our clients as it increases accuracy, improves productivity, saves time and reduces human error."
+        ]
+      },
+      {
+        "tag": "blockchain",
+        "patterns": [
+          "Intro about your blockchain service",
+          "blockchain service",
+          "blockchain"
+        ],
+        "responses": [
+        "Blockchain services provided by our company helps clients receive quick and accurate information as information is crucial for businesses, it is an important tool as it provides a secure and transparent way to store and transfer data."
+        ]
+      }
+    ]
+  }
+  
+  
