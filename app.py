@@ -236,7 +236,7 @@ app = Bottle()
 
 @app.route('/')
 def chatbot():
-    return bottle.template("base.html")
+    return bottle.template("index.html")
 
 @app.route('/static/<filepath:path>')
 def serve_static(filepath):
