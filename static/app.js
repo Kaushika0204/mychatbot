@@ -172,17 +172,18 @@ class Chatbox {
 
     getChatbotResponse(userInput) {
         userInput = userInput.toLowerCase();
-
+    
         for (const intent of this.intents) {
             for (const pattern of intent.patterns) {
-                if (pattern.toLowerCase() in userInput) {
+                if (userInput.includes(pattern.toLowerCase())) {
                     return random.choice(intent.responses);
                 }
             }
         }
-
+    
         return "I'm sorry, I don't understand. Can you please rephrase your question?";
     }
+    
 
     updateChatText(chatbox, errorMessage = null) {
         var html = '';
