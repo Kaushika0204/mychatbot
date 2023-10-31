@@ -36,12 +36,46 @@
         "patterns": [
           "What services you provide",
           "Services provided by you",
-          "Your services"
-          
+          "Your services",
+          "services"
         ],
         "responses": [
           "Our services include Mobile app development, Web app development, Machine learning, Aritificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain",
           "We provide services like Mobile app development, Web app development, Machine learning, Aritificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain "
+        ]
+      },
+      {
+        "tag": "frontend technology",
+        "patterns": [
+          "frontend technologies",
+          "What frontend technologies you use",
+          "frontend technology"
+        ],
+        "responses": [
+          "Our frontend technologies include HTML, CSS, Java Script, React, Angular, JQuery, Swift, Vue.js, Preact, Backbone.js and Ember.js"
+        ]
+      },
+      {
+        "tag": "backend technology",
+        "patterns": [
+          "backend technologies",
+          "What backend technologies you use",
+          "backend technology"
+        ],
+        "responses": [
+          "Our backend technologies include Django, Ruby on Rails, ExpressJs, Springboot, Flask, ASP.Net, Node.js, JavaScript, Python, PHP, Java, Ruby, Golang and C#"
+        ]
+      },
+      {
+        "tag": "technology",
+        "patterns": [
+          "technologies",
+          "What technologies you use",
+          "your technologies",
+          "your expertise"
+        ],
+        "responses": [
+          "Our technologies encompass a broad spectrum, ranging from backend solutions like Django, Ruby on Rails, ExpressJS, Spring Boot, Flask, ASP.NET, Node.js, Python, PHP, Java, Ruby, Golang, and C# to frontend technologies such as HTML, CSS, JavaScript, React, Angular, jQuery, Swift, Vue.js, Preact, Backbone.js, and Ember.js"
         ]
       },
       {
