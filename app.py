@@ -6,7 +6,7 @@
 
 # app = bottle.Bottle()
 
-# with open('./bot.json', 'r') as json_file:
+# with open('mychatbot/bot.json', 'r') as json_file:
 #     rules_data = json.load(json_file) 
 
 # # Get the rules from the JSON data
