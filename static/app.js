@@ -176,13 +176,16 @@ class Chatbox {
         for (const intent of this.intents) {
             for (const pattern of intent.patterns) {
                 if (userInput.includes(pattern.toLowerCase())) {
-                    return random.choice(intent.responses);
+                    // Generate a random index within the responses array
+                    const randomIndex = Math.floor(Math.random() * intent.responses.length);
+                    return intent.responses[randomIndex];
                 }
             }
         }
     
         return "I'm sorry, I don't understand. Can you please rephrase your question?";
     }
+    
     
 
     updateChatText(chatbox, errorMessage = null) {
