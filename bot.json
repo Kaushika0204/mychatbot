@@ -38,19 +38,11 @@
           "Services provided by you",
           "Your services",
           "services",
-<<<<<<< HEAD
           "service"
         ],
         "responses": [
           "Our services include Mobile app development, Web app development, Machine learning, Aritificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain",
           "We offer services such as Mobile app development, Web app development, Machine learning, Aritificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain "
-=======
-            "service"
-        ],
-        "responses": [
-          "Our services include Mobile app development, Web app development, Machine learning, Artificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain",
-          "We offer services such as Mobile app development, Web app development, Machine learning, Artificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain "
->>>>>>> 67d4f65161ae063525b366d344949a020f5f2fcb
         ]
       },
       {
@@ -59,11 +51,7 @@
           "frontend technologies",
           "What frontend technologies you use",
           "frontend technology",
-<<<<<<< HEAD
           "frontend"
-=======
-            "frontend"
->>>>>>> 67d4f65161ae063525b366d344949a020f5f2fcb
         ],
         "responses": [
           "Our frontend technologies include HTML, CSS, Java Script, React, Angular, JQuery, Swift, Vue.js, Preact, Backbone.js and Ember.js"
@@ -75,11 +63,7 @@
           "backend technologies",
           "What backend technologies you use",
           "backend technology",
-<<<<<<< HEAD
           "backend"
-=======
-            "backend"
->>>>>>> 67d4f65161ae063525b366d344949a020f5f2fcb
         ],
         "responses": [
           "Our backend technologies include Django, Ruby on Rails, ExpressJs, Springboot, Flask, ASP.Net, Node.js, JavaScript, Python, PHP, Java, Ruby, Golang and C#"
@@ -102,15 +86,11 @@
         "tag": "intro",
         "patterns": [
           "Short introduction about your company",
-            "Short intro about your company",
+          "Short intro about your company",
           "What is your company about",
           "Detail about your company",
-<<<<<<< HEAD
-          "Your company"
-=======
-            "Introduction about company",
-            "Intro about company"
->>>>>>> 67d4f65161ae063525b366d344949a020f5f2fcb
+          "Your company",
+          "Intro about your company"
           
         ],
         "responses": [
@@ -124,13 +104,8 @@
           "Which industries do you work for",
           "Any specific industries you provide services",
           "Which sectors you provide services into",
-<<<<<<< HEAD
           "industries",
-          "sector"
-=======
-            "industries",
-            "sectors"
->>>>>>> 67d4f65161ae063525b366d344949a020f5f2fcb
+          "sectors"
         ],
         "responses": [
           "Our services are provided across sectors like BFSI, Food&Beverages, Manufacturing, Education, E-commerce, Construction, Medical Services, Real Estate, etc",
@@ -143,11 +118,8 @@
           "Intro about your mobile app development service",
           "Mobile app development service",
           "Mobile app development",
-<<<<<<< HEAD
           "mobile app"
-=======
-            "Mobile app"
->>>>>>> 67d4f65161ae063525b366d344949a020f5f2fcb
+
         ],
         "responses": [
         "We stand out as our primary focus is developing apps that are hybrid, native and superior cross-platform compatible mobile apps. With an experienced team in mobile app development, we assure you sophisticated, logical and remarkable mobile apps."
@@ -159,11 +131,7 @@
           "Intro about your web app development service",
           "web app development service",
           "web app development",
-<<<<<<< HEAD
           "web app"
-=======
-            "web app"
->>>>>>> 67d4f65161ae063525b366d344949a020f5f2fcb
         ],
         "responses": [
         "Using our web application services we can make our clients long awaited desires come into reality by assisting them in creating online applications that they have been idealizing. We can take care of everything from planning to designing till hosting and maintenance of the application."
