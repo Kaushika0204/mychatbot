@@ -37,11 +37,12 @@
           "What services you provide",
           "Services provided by you",
           "Your services",
-          "services"
+          "services",
+            "service"
         ],
         "responses": [
-          "Our services include Mobile app development, Web app development, Machine learning, Aritificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain",
-          "We provide services like Mobile app development, Web app development, Machine learning, Aritificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain "
+          "Our services include Mobile app development, Web app development, Machine learning, Artificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain",
+          "We offer services such as Mobile app development, Web app development, Machine learning, Artificial Intelligence, Internet of Things, DevOps Engineering, QA Automation and Blockchain "
         ]
       },
       {
@@ -49,7 +50,8 @@
         "patterns": [
           "frontend technologies",
           "What frontend technologies you use",
-          "frontend technology"
+          "frontend technology",
+            "frontend"
         ],
         "responses": [
           "Our frontend technologies include HTML, CSS, Java Script, React, Angular, JQuery, Swift, Vue.js, Preact, Backbone.js and Ember.js"
@@ -60,7 +62,8 @@
         "patterns": [
           "backend technologies",
           "What backend technologies you use",
-          "backend technology"
+          "backend technology",
+            "backend"
         ],
         "responses": [
           "Our backend technologies include Django, Ruby on Rails, ExpressJs, Springboot, Flask, ASP.Net, Node.js, JavaScript, Python, PHP, Java, Ruby, Golang and C#"
@@ -81,9 +84,12 @@
       {
         "tag": "intro",
         "patterns": [
-          "Short intro about your company",
+          "Short introduction about your company",
+            "Short intro about your company",
           "What is your company about",
-          "Detail about your company"
+          "Detail about your company",
+            "Introduction about company",
+            "Intro about company"
           
         ],
         "responses": [
@@ -96,7 +102,9 @@
         "patterns": [
           "Which industries do you work for",
           "Any specific industries you provide services",
-          "Which sectors you provide services into"
+          "Which sectors you provide services into",
+            "industries",
+            "sectors"
         ],
         "responses": [
           "Our services are provided across sectors like BFSI, Food&Beverages, Manufacturing, Education, E-commerce, Construction, Medical Services, Real Estate, etc",
@@ -108,7 +116,8 @@
         "patterns": [
           "Intro about your mobile app development service",
           "Mobile app development service",
-          "Mobile app development"
+          "Mobile app development",
+            "Mobile app"
         ],
         "responses": [
         "We stand out as our primary focus is developing apps that are hybrid, native and superior cross-platform compatible mobile apps. With an experienced team in mobile app development, we assure you sophisticated, logical and remarkable mobile apps."
@@ -119,7 +128,8 @@
         "patterns": [
           "Intro about your web app development service",
           "web app development service",
-          "web app development"
+          "web app development",
+            "web app"
         ],
         "responses": [
         "Using our web application services we can make our clients long awaited desires come into reality by assisting them in creating online applications that they have been idealizing. We can take care of everything from planning to designing till hosting and maintenance of the application."
