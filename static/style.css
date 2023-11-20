@@ -36,7 +36,7 @@ body {
     height: 350px;
     z-index: -123456;
     opacity: 1;
-    transition: all .5s ease-in-out;
+    transition: height 0.5s ease-in-out;
 }
 
 /* CONTENT ISOPEN */
@@ -197,5 +197,4 @@ body {
     border-bottom-left-radius: 50px;
     box-shadow: 0px 10px 15px rgba(27, 20, 151, 0.1);
     cursor: pointer;
-}
-
+} 
