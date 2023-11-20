@@ -150,6 +150,8 @@ class Chatbox {
             chatbox.classList.add('chatbox--active');
         } else {
             chatbox.classList.remove('chatbox--active');
+
+            chatbox.style.transform = 'translateY(0)';
         }
     }
 
