@@ -108,12 +108,13 @@ class Chatbox {
             sendButton: document.querySelector('.send__button')
         };
 
-        this.state = false;
+        this.state = true;
         this.messages = [];
         this.intents = [];
 
         this.display();
         this.loadResponses();
+        this.toggleState(this.args.chatBox);
     }
 
     display() {
