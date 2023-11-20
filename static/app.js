@@ -12,6 +12,7 @@ class Chatbox {
 
         this.display();
         this.loadResponses();
+        this.toggleState(this.args.chatBox);
     }
 
     display() {
