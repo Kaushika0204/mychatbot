@@ -153,7 +153,7 @@ class Chatbox {
         //     chatbox.style.transform = 'translateY(0)';
         // }
 
-        chatbox.style.display = this.state ? 'block' : 'none';
+        chatbox.style.height = this.state ? '350px' : '0';
        
     }
 
