@@ -145,13 +145,14 @@ class Chatbox {
     toggleState(chatbox) {
         this.state = !this.state;
 
-        // Show or hide the box
-        if (this.state) {
-            chatbox.classList.add('chatbox--active');
-        } else {
-            chatbox.classList.remove('chatbox--active');
-            chatbox.style.transform = 'translateY(0)';
-        }
+        // // Show or hide the box
+        // if (this.state) {
+        //     chatbox.classList.add('chatbox--active');
+        // } else {
+        //     chatbox.classList.remove('chatbox--active');
+        //     chatbox.style.transform = 'translateY(0)';
+        // }
+        chatbox.style.display = this.state ? 'block' : 'none';
     }
 
     onSendButton(chatbox) {
