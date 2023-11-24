@@ -232,7 +232,85 @@
           "Expertise on java"
         ],
         "responses": [
-        ""
+        "Java is a fundamental part of our backend development, known for its platform independence and reliability. Our team leverages Java's strong object-oriented principles to build scalable and enterprise-grade applications using frameworks such as Core Java, EJB, SpringBoot, Hibernate, JPA, REST Webservices, JMS, Reactive Programming, SOAP Services."
+        ]
+      },
+      {
+        "tag": "php",
+        "patterns": [
+          "PHP",
+          "more about PHP",
+          "Your expertise in PHP",
+          "PHP expertise",
+          "Expertise on PHP"
+        ],
+        "responses": [
+        "PHP powers our backend solutions, providing a versatile and widely-used scripting language. Our team utilizes PHP for developing dynamic and data-driven web applications. Its seamless integration with databases and web servers makes PHP a reliable choice for our backend development."
+        ]
+      },
+      {
+        "tag": "django",
+        "patterns": [
+          "django",
+          "more about django",
+          "Your expertise in django",
+          "django expertise",
+          "Expertise on django"
+        ],
+        "responses": [
+        "Django serves as the backbone of our backend development, providing a high-level, Pythonic framework for building robust web applications. Our expertise in Django enables us to create scalable and feature-rich server-side solutions. Its emphasis on simplicity and reusability aligns with our commitment to efficient development."
+        ]
+      },
+      {
+        "tag": "flask",
+        "patterns": [
+          "flask",
+          "more about flask",
+          "Your expertise in flask",
+          "flask expertise",
+          "Expertise on flask"
+        ],
+        "responses": [
+        "Flask is our preferred framework for lightweight and flexible Python-based backend development. Our team utilizes Flask for its simplicity and modularity, making it an excellent choice for developing RESTful APIs and web services. Flask's lightweight nature aligns with our focus on resource-efficient solutions."
+        ]
+      },
+      {
+        "tag": "ruby on rails",
+        "patterns": [
+          "ruby on rails",
+          "more about ruby on rails",
+          "Your expertise in ruby on rails",
+          "ruby on rails expertise",
+          "Expertise on ruby on rails"
+        ],
+        "responses": [
+        "Ruby on Rails empowers our backend solutions with an elegant and developer-friendly framework. Our team capitalizes on Rails' conventions and modular structure to accelerate development, delivering scalable and efficient web applications. Ruby on Rails remains a key player in our backend toolkit."
+        ]
+      },
+      {
+        "tag": "springboot",
+        "patterns": [
+          "ruby on springboot",
+          "more about springboot",
+          "Your expertise in springboot",
+          "springboot expertise",
+          "Expertise on springboot"
+        ],
+        "responses": [
+        "For Java-based backend development, we turn to Spring Boot, a powerful and convention-over-configuration framework. Our team capitalizes on Spring Boot's features to build scalable and enterprise-grade applications with ease. Its robust architecture aligns with our commitment to delivering high-quality solutions."
+        ]
+      },
+      {
+        "tag": "backbone",
+        "patterns": [
+          "ruby on backbone",
+          "more about backbone",
+          "Your expertise in backbone",
+          "backbone expertise",
+          "Expertise on backbone"
+        ],
+        "responses": [
+        "Backbone.js provides structure to our client-side applications, offering models, views, and collections for enhanced organization. With Backbone.js, our team streamlines the development of single-page applications, ensuring a clear and modular architecture for maintainable projects"
         ]
       },
       {
@@ -313,6 +391,46 @@
         ],
         "responses": [
         "At meteoriQs, we specialize in creating customized chatbot solutions tailored to your unique needs. Powered by cutting-edge AI and natural language processing technologies, our chatbots provide efficient, round-the-clock support, improve user experiences, and boost productivity."        
+        ]
+      },
+      {
+        "tag": "software development",
+        "patterns": [
+          "software development",
+          "custom software development",
+          "more about software development services",
+          "Your expertise in developing custom softwares", 
+          "software development expertise",
+          "Expertise on software development"
+        ],
+        "responses": [
+        "We specialize in custom software development, tailoring solutions to meet the unique requirements of each client for optimal performance and user experience."        
+        ]
+      },
+      {
+        "tag": "ui/ux",
+        "patterns": [
+          "ui/ux design",
+          "more about ui/ux designing services",
+          "Your expertise in ui/ux designing", 
+          "ui/ux designing expertise",
+          "Expertise on ui/ux designing"
+        ],
+        "responses": [
+        "Our skilled design team focuses on creating intuitive and visually appealing user interfaces, ensuring a seamless and engaging experience for your application or website."        
+        ]
+      },
+      {
+        "tag": "cloud services",
+        "patterns": [
+          "cloud services",
+          "more about cloud services",
+          "Your expertise in cloud services", 
+          "cloud services expertise",
+          "Expertise on cloud services"
+        ],
+        "responses": [
+        "We provide cloud services on leveraging platforms such as AWS, Azure, and Google Cloud to ensure scalability, reliability, and cost-effectiveness for your applications."        
         ]
       },
       {
