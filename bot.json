@@ -197,6 +197,125 @@
         ]
       },
       {
+        "tag": "tools",
+        "patterns": [
+          "Which qa automation tools you use",
+          "qa automation tools",
+          "automation tools",
+          "Which qa automation tools you are expertised in",
+          "Which automation tools you are expertised in",
+          "Which automation tools you use"
+        ],
+        "responses": [
+        "We possess expertise in various automation tools, including Cypress, WebdriverIO, Playwright, REST API automation, QA manual, Protractor, UFT, TestComplete, Tosca, TestNG, SoapUI, Apache JMeter, Sikuli, Cucumber, Watir, Selenium, and Appium."
+        ]
+      },
+      {
+        "tag": "tools",
+        "patterns": [
+          "Which devops tools you use",
+          "devops tools",
+          "Which devops tools you are expertised in",
+          "Which devops tools you use"
+        ],
+        "responses": [
+        "We possess expertise in various devops tools, including Slack, Jenkins, Docker, Phantom, Nagios, Vagrant, Ansible GitHub, Sentry, Bitbucket, Mesos, Dynatrace, AppDynamics, Instana, Catchpoint, Splunk, Sensu, Chef, Puppet, Grafana, Liquibase, Datadog, New Relic, Ansible, Helm."
+        ]
+      },
+      {
+        "tag": "java",
+        "patterns": [
+          "java",
+          "more about java",
+          "Your expertise in java",
+          "Java expertise",
+          "Expertise on java"
+        ],
+        "responses": [
+        ""
+        ]
+      },
+      {
+        "tag": "python",
+        "patterns": [
+          "python",
+          "more about python",
+          "Your expertise in python",
+          "Python expertise",
+          "Expertise on python"
+        ],
+        "responses": [
+        "With a wealth of experience, our team excels in Python development. We leverage the power of Python for its readability, versatility, and extensive ecosystem. Our expertise extends to frameworks such as Django, Flask, and FastAPI, enabling us to deliver scalable and efficient solutions tailored to your project's needs."
+        ]
+      },
+      {
+        "tag": ".net",
+        "patterns": [
+          ".net",
+          "dot net",
+          "more about dot net",
+          "Your expertise in .net",
+          ".net expertise",
+          "Expertise on dot net"
+        ],
+        "responses": [
+        "Bringing our expertise to the table, our .NET development team is well-versed in crafting robust and scalable applications. We specialize in the use of the .NET framework, including ASP.NET for web development and Xamarin for cross-platform mobile development. Our proficiency extends to technologies like Entity Framework for efficient data handling and MVC for building modular and maintainable applications."
+        ]
+      },
+      {
+        "tag": "node.js",
+        "patterns": [
+          "node.js",
+          "node",
+          "more about node",
+          "Your expertise in node",
+          "node expertise",
+          "Expertise on node"
+        ],
+        "responses": [
+        "With around many years of hands-on experience, our Node.js development team is adept at building high-performance, scalable applications. We harness the event-driven, non-blocking nature of Node.js for real-time applications and microservices. Our expertise covers popular frameworks such as Express.js and Nest.js, allowing us to create efficient and modern server-side solutions."
+        ]
+      },
+      {
+        "tag": "react",
+        "patterns": [
+          "react",
+          "more about react",
+          "Your expertise in react",
+          "react expertise",
+          "Expertise on react"
+        ],
+        "responses": [
+        "Our team boasts experience in React development, delivering dynamic and interactive user interfaces for web applications. We appreciate the component-based architecture of React, and our proficiency extends to state management with Redux and context API. Whether it's building single-page applications or integrating React into existing projects, we ensure a seamless and engaging user experience."
+        ]
+      },
+      {
+        "tag": "angular",
+        "patterns": [
+          "angular",
+          "more about angular",
+          "Your expertise in angular",
+          "angular expertise",
+          "Expertise on angular"
+        ],
+        "responses": [
+        "Our Angular development team excels in creating dynamic and feature-rich web applications. We leverage the power of Angular's modular architecture and two-way data binding to build scalable solutions. Our expertise extends to using Angular Material for designing consistent and responsive user interfaces, ensuring a modern and polished user experience."
+        ]
+      },
+      {
+        "tag": "chatbot",
+        "patterns": [
+          "chatbot",
+          "more about chatbot",
+          "Your expertise in developing chatbot", 
+          "chatbot expertise",
+          "Expertise on chatbot"
+        ],
+        "responses": [
+        "At meteoriQs, we specialize in creating customized chatbot solutions tailored to your unique needs. Powered by cutting-edge AI and natural language processing technologies, our chatbots provide efficient, round-the-clock support, improve user experiences, and boost productivity."        
+        ]
+      },
+      {
         "tag": "blockchain",
         "patterns": [
           "Intro about your blockchain service",
